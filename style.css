@@ -1,36 +1,36 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka&family=Righteous&display=swap');
 
 *{
-  height: 100%;
-  width: 100%;
+    height: 100%;
+    width: 100%;
 }
 body {
-  padding: 0px;
-  margin: 0px;
-  background-color: darkslategrey;
-  max-width: 100%;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+    padding: 0px;
+    margin: 0px;
+    background-color: darkslategrey;
+    max-width: 100%;
+    height: 100%;
+    display: grid;
+    place-items: center;
 }
 
 a {
-  font-family: Fredoka;
-  text-decoration: none;
-  font-weight: 400;
-  font-size: 1rem;
-  text-align: center;
+    font-family: Fredoka;
+    text-decoration: none;
+    te
+    font-weight: 400;
+    font-size: 1rem;
+    text-align: center;
 }
 
 button {
-  -moz-height: fit-content;
-  -moz-width: fit-content;
-  height: fit-content;
-  width: fit-content;
+    -moz-height: fit-content;
+    -moz-width: fit-content;
+    height: fit-content;
+    width: fit-content;
 }
 
 iframe {
-  height: 50%;
-  width: 50%;
+    height: 50%;
+    width: 50%;
 }
